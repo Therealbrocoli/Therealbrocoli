@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Therealbrocoli
+- 👋 Hi, I’m Emanuel
 - 👀 I’m interested in Coding, Photography, Videography and Webdesign 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: admin@emanuel-photography.ch
